@@ -52,7 +52,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <SidebarHeader className="flex items-center px-4 py-2">
               <div className="flex items-center space-x-2">
                 <CloudRain className="h-6 w-6 text-primary" />
-                <h1 className="text-xl font-bold">WeatherViz</h1>
+                <h1 className="text-xl font-bold">Weather Dashboard</h1>
               </div>
             </SidebarHeader>
 
